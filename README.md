@@ -17,12 +17,6 @@
 - ✅ **Mobile Responsive** - Works seamlessly on all devices
 - ✅ **RESTful API** - Clean, well-documented API endpoints
 
-## 🎯 Live Demo
-
-- **Frontend**: [https://your-app.vercel.app](https://your-app.vercel.app)
-- **API**: [https://your-api.onrender.com](https://your-api.onrender.com)
-- **API Docs**: [https://your-api.onrender.com/swagger](https://your-api.onrender.com/swagger)
-
 ## 🛠️ Technology Stack
 
 ### Backend
