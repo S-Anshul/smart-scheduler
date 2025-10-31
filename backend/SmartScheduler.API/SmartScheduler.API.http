@@ -1,0 +1,6 @@
+@SmartScheduler.API_HostAddress = http://localhost:5184
+
+GET {{SmartScheduler.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
